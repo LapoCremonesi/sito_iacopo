@@ -1,0 +1,22 @@
+animazione logo che va nella appbar in alto a sinistra
+nella parte centrale della appbar nome della schermata
+
+color pattern per gradient animato nella pagina presentazione:
+ - FF4615
+ - FF7A3C
+ - C92E00
+
+quattro pulsantia con delle immagini, che portano a delle schermate separate
+ senca sbocco
+ - FFA100
+
+pagina about me
+ - 4AA907
+
+pagina finale contatti e altre cose
+ - 0726A9
+
+
+font possibili (da rivedere alla fine)
+ - Satoshi
+ - Inter

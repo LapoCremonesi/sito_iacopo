@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:sito_iacopo/widget/custom_card.dart';
 
-class LandingSection extends StatelessWidget {
-  const LandingSection({super.key});
+class ButtonSection extends StatelessWidget {
+  const ButtonSection({super.key});
 
   @override
   Widget build(BuildContext context) {
